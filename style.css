@@ -1,0 +1,37 @@
+#mission-color{
+    color: orange;
+}
+h1{
+    font-size: 40px;
+    font-weight: 300;
+}
+.first-border{
+    border-left: 5px solid orangered;
+    font-family: 'Yeseva One', cursive;
+    padding-left: 10px;
+    }
+section{
+    display: flex;
+    }
+.div-width{
+    width: 35%;
+    margin-left: 7%;
+   }
+.div-width img{
+    width: 60%;
+    padding-bottom: 20%;
+}
+#padding-div{
+    padding-top: 5%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 8px;
+}
+#scroll-down{
+    font-size: small;
+}
