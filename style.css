@@ -18,7 +18,7 @@ section{
     margin-left: 7%;
    }
 .div-width img{
-    width: 60%;
+    width: 100%;
     padding-bottom: 20%;
 }
 #padding-div{
@@ -79,15 +79,56 @@ a{
     margin-top: 5%;
 }
 .section3-width img{
-    width: 40%;
+    width: 60%;
     padding-left: 10%;
 }
-#section3-font{
+.section3-font{
     font-family: 'Orelega One', cursive;
 }
 #background-image{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 12%;
+    background-size: 15%;
     background-position-y: 50%;
+}
+.section4-width{
+    width: 50%;
+    margin-top: 5%;
+    padding-left: 10%;
+}
+.section4-width img{
+    width: 80%;
+}
+.section-margin{
+    margin-left: 5%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#text-align{
+   margin-left: 26%;
+}
+.final-section{
+    width: 40%;
+}
+.final-section img{
+    padding-top: 15%;
+}
+footer h2{
+    font-family: 'Marck Script', cursive;
+    font-size: xx-large;
+    padding-top: 10px;
+}
+.h2-footer{
+    color: white;
+   }
+#final-footer{
+    text-align: center;
+    background-color: rgb(2, 2, 41);
+    height: 120px;
+    }
+footer p{
+    color: white;
+    font-size: small;
+    padding-bottom: 10px;
 }
