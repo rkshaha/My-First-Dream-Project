@@ -35,3 +35,42 @@ a{
 #scroll-down{
     font-size: small;
 }
+#section2-h1{
+    color: rgb(4, 4, 29);
+    font-weight: 900;
+    font-family: 'Shippori Antique', sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+.orange-2022{
+    color: coral;
+}
+.box-shadow-width{
+    width: 30%;
+}
+.box-shadow-width img{
+    width: 30%;
+    padding-left: 33.5%;
+}
+#box-shadow1{
+    box-shadow: 0px 0px 0px white;
+    margin-left: 5%;
+    background-color: rgb(228, 244, 252);
+    border-radius: 10%;
+    padding-left: 10px;
+}
+#box-shadow2{
+    box-shadow: 0px 0px 0px white;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: rgb(252, 228, 252);
+    border-radius: 10%;
+    padding-left: 10px;
+}
+#box-shadow3{
+    box-shadow: 0px 0px 0px white;
+    margin-right: 5%;
+    background-color: rgb(250, 232, 199);
+    border-radius: 10%;
+    padding-left: 10px;
+}
