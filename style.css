@@ -36,7 +36,7 @@ a{
     font-size: small;
 }
 #section2-h1{
-    color: rgb(4, 4, 29);
+    color: rgb(8, 8, 78);
     font-weight: 900;
     font-family: 'Shippori Antique', sans-serif;
     text-align: center;
@@ -73,4 +73,21 @@ a{
     background-color: rgb(250, 232, 199);
     border-radius: 10%;
     padding-left: 10px;
+}
+.section3-width{
+    width: 50%;
+    margin-top: 5%;
+}
+.section3-width img{
+    width: 40%;
+    padding-left: 10%;
+}
+#section3-font{
+    font-family: 'Orelega One', cursive;
+}
+#background-image{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 12%;
+    background-position-y: 50%;
 }
